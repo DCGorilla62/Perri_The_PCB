@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FX23100S05SH"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FX23100S05SH")
+        (spec "default")
+    )
+)

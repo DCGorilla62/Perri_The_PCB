@@ -1,0 +1,9 @@
+Manufacturer=Hirose
+PartNumber=FX23-100S-0.5SH
+PartCategory=Connector
+PackageCategory=Other
+PinCount=106
+Version=1.2
+Released=2020-03-30 11:38:14
+Downloaded=2022-06-23 15:11:37
+3D=Y

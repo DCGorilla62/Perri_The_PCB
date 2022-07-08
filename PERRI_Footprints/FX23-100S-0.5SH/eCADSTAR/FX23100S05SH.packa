@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FX23-100S-0_5SH"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-30-11:38:14)
+    (mountForm default
+        (footprintRef "FX23100S05SH")
+        (spec "System")
+    )
+)

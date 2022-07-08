@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "NCV8508_PERRI")(type "KiCad")(uri "${KIPRJMOD}/PERRI_Footprints/NCV8508_PERRI.pretty")(options "")(descr ""))
+  (lib (name "TPS441")(type "KiCad")(uri "${KIPRJMOD}/PERRI_Footprints/KiCAD/2022-06-22_18-44-08/TPS441.pretty")(options "")(descr ""))
+  (lib (name "PCA9554ADB")(type "KiCad")(uri "${KIPRJMOD}/PERRI_Footprints/KiCAD/2022-06-15_19-22-19/PCA9554ADB.pretty")(options "")(descr ""))
+)

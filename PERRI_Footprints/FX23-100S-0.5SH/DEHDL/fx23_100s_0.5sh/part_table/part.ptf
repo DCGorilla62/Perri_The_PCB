@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FX23_100S_0.5SH'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hirose", "FX23-100S-0.5SH" (!) = "", "FX23100S05SH", "Other", "798-FX23-100S-0.5SH", "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/FX23-100S-05SH?qs=lrqjml%252Bjt8eX3V4XvelMuA%3D%3D", "", "", "Board to Board & Mezzanine Connectors 0.5mm Pitch Recep R/A HORZ MNT 100P", "https://www.hirose.com/product/document?clcode=CL0573-3405-0-00&productname=FX23-100S-0.5SH&series=FX23&documenttype=2DDrawing&lang=en&documentid=0000955313", "7.6 mm"
+END_PART
+
+END.
