@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.5
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PERRI_the_PCB.kicad_pro",
+    "filename": "PERRI_the_PCB_Rev2_070822.kicad_pro",
     "version": 1
   },
   "net_settings": {
