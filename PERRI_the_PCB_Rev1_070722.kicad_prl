@@ -36,6 +36,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -61,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "0001420_80000001",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "PERRI_the_PCB_Rev2_070822.kicad_prl",
+    "filename": "PERRI_the_PCB_Rev1_070722.kicad_prl",
     "version": 3
   },
   "project": {
